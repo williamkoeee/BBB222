@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF-1 tvg-logo= group-title=Canais  BBB 1  William Carmo
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
+#EXTINF-1 tvg-logo= group-title=Canais  BBB 2  William Carmo
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/bbb21_c1dfd96e_326aa45c387c80707c533db6d850379b2dad8438/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTc5LjQyLjEyNS41IjtpOjE7czoxMzE6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTUwIFNhZmFyaS81MzcuMzYgRWRnLzg4LjAuNzA1LjYzIjtpOjI7aToxNjEyNzIyMzQxO30%3D
+#EXTINF-1 tvg-logo= group-title=Canais  BBB 3  William Carmo
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
